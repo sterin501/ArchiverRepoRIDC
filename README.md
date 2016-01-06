@@ -15,4 +15,13 @@ Configration :
 
 Edit the config.properties file with source ,target URLs and Archiver collection details 
 
+Example to run
 
+
+java TransferAutomation
+
+
+Other java classes
+
+GetArchiverStaus.java  : To get the archiver status
+VerifyFFinTarger.java  : To verify the target folder 
